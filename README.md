@@ -17,7 +17,7 @@ Mad Libs Game 🎉
 
 # 3) Rock-paper-Sisscor Game:
 📜 Rock Paper Scissors Game
- A simple Rock, Paper, Scissors game developed in Python with image-based choices. 🪨📄✂️
+A simple Rock, Paper, Scissors game developed in Python with image-based choices. 🪨📄✂️
  Supports shorthand inputs (R/P/S) and displays logos for each choice.
- Uses the PIL library to show images in Google Colab or locally.
+Uses the PIL library to show images in Google Colab or locally.
  Play against the computer and test your luck! 🎮
